@@ -9,12 +9,12 @@ payload:
   - DOMAIN-SUFFIX,shenyecg.com #深夜CG
   - DOMAIN-SUFFIX,enjoycg.com #enjoycg
   - DOMAIN-SUFFIX,logicvfx.cn #logicvfx
-  - DOMAIN-SUFFIX,626cg #626cg资源站
+  - DOMAIN-SUFFIX,626cg.com #626cg资源站
   - DOMAIN-SUFFIX,videocopilot.net.cn #videocopilot
-  - DOMAIN-SUFFIX,icourse163 #中国大学MOOC
-  - DOMAIN-SUFFIX,uiiiuiii #uiiiuiii教育
+  - DOMAIN-SUFFIX,icourse163.com #中国大学MOOC
+  - DOMAIN-SUFFIX,uiiiuiii.com #uiiiuiii教育
   - DOMAIN-SUFFIX,gogoup.com #站酷高高手
-  - DOMAIN-SUFFIX,hellorf #motioner台湾设计
+  - DOMAIN-SUFFIX,motioner.tw #motioner台湾设计
 # > 设计网站
   - DOMAIN-SUFFIX,ggac.com #GGAC数字艺术平台
   - DOMAIN-SUFFIX,zcool.com.cn #站酷
