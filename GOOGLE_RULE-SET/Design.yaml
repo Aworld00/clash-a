@@ -59,14 +59,16 @@ payload:
 # > 绘画
   - DOMAIN-SUFFIX,gracg.com #涂鸦王国
 # > 字体网站
-  - DOMAIN-SUFFIX,ziticq #字体传奇
-  - DOMAIN-SUFFIX,zitijia #字体家
+  - DOMAIN-SUFFIX,ziticq.com #字体传奇
+  - DOMAIN-SUFFIX,zitijia.com #字体家
   - DOMAIN-SUFFIX,izihun.com #字魂网
   - DOMAIN-SUFFIX,wenyue.com #文悦字库
   - DOMAIN-SUFFIX,hellofont.com #字由
   - DOMAIN-SUFFIX,qiuziti.com #求字体
   - DOMAIN-SUFFIX,fonts.net.cn #字体天下
   - DOMAIN-SUFFIX,ifonts.com #以方
+  - DOMAIN-SUFFIX,100font.com #免费商用字体
+  - DOMAIN-SUFFIX,fontstorage.com #英文免费字体
 # > 图库
   - DOMAIN-SUFFIX,tuchong.com #图虫
   - DOMAIN-SUFFIX,hellorf.com #站酷海洛
