@@ -19,8 +19,8 @@ payload:
   - DOMAIN-SUFFIX,ggac.com #GGAC数字艺术平台
   - DOMAIN-SUFFIX,zcool.com.cn #站酷
   - DOMAIN-SUFFIX,zhisheji.com #致设计
-  - DOMAIN-SUFFIX,digitaling #数英
-  - DOMAIN-SUFFIX,uisdc #优设
+  - DOMAIN-SUFFIX,digitaling.com #数英
+  - DOMAIN-SUFFIX,uisdc.com #优设
   - DOMAIN-SUFFIX,puxiang.com #普象工业设计网
 # > 软件严选
   - DOMAIN-SUFFIX,52pojie.com #52破解
@@ -47,7 +47,7 @@ payload:
   - DOMAIN-SUFFIX,turbosquid.com #turbosquid
   - DOMAIN-SUFFIX,blender-3d.cn #Blender_3D模型
   - DOMAIN-SUFFIX,daz3ddl.com #daz3d下载站
-  - DOMAIN-SUFFIX,mobangku #魔棒库
+  - DOMAIN-SUFFIX,mobangku.com #魔棒库
   - DOMAIN-SUFFIX,c4d.cn #C4D之家
   - DOMAIN-SUFFIX,om.cn #欧模网
 # > 摄影
@@ -79,7 +79,7 @@ payload:
   - DOMAIN-SUFFIX,58pic.com #千图网
   - DOMAIN-SUFFIX,90sheji.com #90设计
   - DOMAIN-SUFFIX,huaban.com #花瓣网
-  - DOMAIN-SUFFIX,chuangkit #创客贴
+  - DOMAIN-SUFFIX,chuangkit.com #创客贴
   - DOMAIN-SUFFIX,gtn9.com #古田路9号，版权设计
 # > 文档
   - DOMAIN-SUFFIX,shimo.im #石墨文档
