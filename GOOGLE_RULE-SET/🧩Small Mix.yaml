@@ -34,3 +34,4 @@ payload:
   - DOMAIN-SUFFIX,otoy.com #OC官网
 # > 国外不明网站
   - DOMAIN-SUFFIX,imgix.com
+  - DOMAIN-SUFFIX,google-analytics.com
