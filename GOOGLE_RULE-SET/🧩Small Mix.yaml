@@ -32,3 +32,5 @@ payload:
   - DOMAIN-SUFFIX,sidefx.com #Houdini官网
   - DOMAIN-SUFFIX,blender.org #Blender
   - DOMAIN-SUFFIX,otoy.com #OC官网
+# > 国外不明网站
+  - DOMAIN-SUFFIX,imgix.com
