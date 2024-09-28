@@ -27,3 +27,8 @@ payload:
   - DOMAIN-SUFFIX,pinterest.com #国外花瓣
   - DOMAIN-SUFFIX,pixiv.net #P站插画
   - DOMAIN-SUFFIX,behance.net # B焊死
+# > 国外设计论坛
+  - DOMAIN-SUFFIX,maxon.net #C4D官网
+  - DOMAIN-SUFFIX,sidefx.com #Houdini官网
+  - DOMAIN-SUFFIX,blender.org #Blender
+  - DOMAIN-SUFFIX,otoy.com #OC官网
