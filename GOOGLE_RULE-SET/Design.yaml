@@ -84,3 +84,14 @@ payload:
 # > 文档
   - DOMAIN-SUFFIX,shimo.im #石墨文档
   - DOMAIN-SUFFIX,badjs.weixinbridge.com #微信公众号文章
+# > 一些软件禁用
+  - PROCESS-NAME,baidunetdiskhost.exe
+  - PROCESS-NAME,Clash for Windows.exe
+  - PROCESS-NAME,QQ.exe
+  - PROCESS-NAME,Weixin.exe
+  - PROCESS-NAME,quark.exe
+  - PROCESS-NAME,QQEX.exe
+  - PROCESS-NAME,smartscreen.exe
+  - PROCESS-NAME,BaiduNetdisk.exe
+  - PROCESS-NAME,node.exe
+  - PROCESS-NAME,TencentDocs.exe
