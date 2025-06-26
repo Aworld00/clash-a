@@ -96,3 +96,6 @@ payload:
   - PROCESS-NAME,node.exe
   - PROCESS-NAME,TencentDocs.exe
   - PROCESS-NAME,WXWorkWeb.exe
+  - PROCESS-NAME,wwmapp.exe
+  - PROCESS-NAME,WeMail.exe
+  - PROCESS-NAME,cloudmusic.exe
