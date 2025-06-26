@@ -36,13 +36,13 @@ payload:
   - DOMAIN-SUFFIX,imgix.com
   - DOMAIN-SUFFIX,google-analytics.com
 # > 一些软件禁用
-  - PROCESS-NAME,baidunetdiskhost.exe,no-resolve
-  - PROCESS-NAME,Clash for Windows.exe,no-resolve
-  - PROCESS-NAME,QQ.exe,no-resolve
-  - PROCESS-NAME,Weixin.exe,no-resolve
-  - PROCESS-NAME,quark.exe,no-resolve
-  - PROCESS-NAME,QQEX.exe,no-resolve
-  - PROCESS-NAME,smartscreen.exe,no-resolve
-  - PROCESS-NAME,BaiduNetdisk.exe,no-resolve
-  - PROCESS-NAME,node.exe,no-resolve
-  - PROCESS-NAME,TencentDocs.exe,no-resolve
+  - PROCESS-NAME,baidunetdiskhost.exe,🀄 关闭代理,no-resolve
+  - PROCESS-NAME,Clash for Windows.exe,🀄 关闭代理,no-resolve
+  - PROCESS-NAME,QQ.exe,🀄 关闭代理,no-resolve
+  - PROCESS-NAME,Weixin.exe,🀄 关闭代理,no-resolve
+  - PROCESS-NAME,quark.exe,🀄 关闭代理,no-resolve
+  - PROCESS-NAME,QQEX.exe,🀄 关闭代理,no-resolve
+  - PROCESS-NAME,smartscreen.exe,🀄 关闭代理,no-resolve
+  - PROCESS-NAME,BaiduNetdisk.exe,🀄 关闭代理,no-resolve
+  - PROCESS-NAME,node.exe,🀄 关闭代理,no-resolve
+  - PROCESS-NAME,TencentDocs.exe,🀄 关闭代理,no-resolve
