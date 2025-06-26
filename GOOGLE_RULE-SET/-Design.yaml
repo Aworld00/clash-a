@@ -95,3 +95,4 @@ payload:
   - PROCESS-NAME,BaiduNetdisk.exe
   - PROCESS-NAME,node.exe
   - PROCESS-NAME,TencentDocs.exe
+  - PROCESS-NAME,WXWorkWeb.exe
