@@ -35,3 +35,13 @@ payload:
 # > 国外不明网站
   - DOMAIN-SUFFIX,imgix.com
   - DOMAIN-SUFFIX,google-analytics.com
+# > 一些软件禁用
+  - PROCESS-NAME,baidunetdiskhost.exe,no-resolve
+  - PROCESS-NAME,QQ.exe,no-resolve
+  - PROCESS-Weixin.exe,no-resolve
+  - PROCESS-NAME,quark.exe,no-resolve
+  - PROCESS-NAME,QQEX.exe,no-resolve
+  - PROCESS-NAME,smartscreen.exe,no-resolve
+  - PROCESS-NAME,BaiduNetdisk.exe,no-resolve
+  - PROCESS-NAME,node.exe,no-resolve
+  - PROCESS-NAME,TencentDocs.exe,no-resolve
