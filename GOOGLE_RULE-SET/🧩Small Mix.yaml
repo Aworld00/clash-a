@@ -38,7 +38,7 @@ payload:
 # > 一些软件禁用
   - PROCESS-NAME,baidunetdiskhost.exe,no-resolve
   - PROCESS-NAME,QQ.exe,no-resolve
-  - PROCESS-Weixin.exe,no-resolve
+  - PROCESS-NAME,Weixin.exe,no-resolve
   - PROCESS-NAME,quark.exe,no-resolve
   - PROCESS-NAME,QQEX.exe,no-resolve
   - PROCESS-NAME,smartscreen.exe,no-resolve
