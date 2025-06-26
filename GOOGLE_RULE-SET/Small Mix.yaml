@@ -37,6 +37,7 @@ payload:
   - DOMAIN-SUFFIX,google-analytics.com
 # > 一些软件禁用
   - PROCESS-NAME,baidunetdiskhost.exe,no-resolve
+  - PROCESS-NAME,Clash for Windows.exe,no-resolve
   - PROCESS-NAME,QQ.exe,no-resolve
   - PROCESS-NAME,Weixin.exe,no-resolve
   - PROCESS-NAME,quark.exe,no-resolve
