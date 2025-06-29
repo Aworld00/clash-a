@@ -26,6 +26,7 @@ payload:
   - DOMAIN-SUFFIX,52pojie.com #52破解
   - DOMAIN-SUFFIX,gaoding.com #搞定设计
   - DOMAIN-SUFFIX,oft.macxf.com #软件先锋
+  - DOMAIN-SUFFIX,softgj.com #软件管家
   - DOMAIN-SUFFIX,appinn.com #小众软件
   - DOMAIN-SUFFIX,gfxcamp.com #智齿一号
   - DOMAIN-SUFFIX,ghxi.com #果壳剥壳
@@ -84,6 +85,21 @@ payload:
 # > 文档
   - DOMAIN-SUFFIX,shimo.im #石墨文档
   - DOMAIN-SUFFIX,badjs.weixinbridge.com #微信公众号文章
+# > 在线生图Ai平台
+  - DOMAIN-SUFFIX,doubao.com #豆包
+  - DOMAIN-SUFFIX,chatglm.cn #智谱清言
+  - DOMAIN-SUFFIX,liblib.art #哩布哩布AI
+  - DOMAIN-SUFFIX,haiyi.art #海艺AI
+  - DOMAIN-SUFFIX,jimeng.jianying.com #即梦AI
+  - DOMAIN-SUFFIX,jiazuo.taobao.com #家作（家装类型）
+  - DOMAIN-SUFFIX,designkit.com #美图设计室
+  - DOMAIN-SUFFIX,app.klingai.com #可灵AI
+  - DOMAIN-SUFFIX,d.design #堆友
+# > 回答AI平台
+  - DOMAIN-SUFFIX,yuanbao.tencent.com #腾讯元宝
+  - DOMAIN-SUFFIX,tongyi.aliyun.com #通义
+  - DOMAIN-SUFFIX,bangong.360.cn #苏打办公
+  - DOMAIN-SUFFIX,chat.deepseek.com #Deepseek
 # > 一些软件禁用
   - PROCESS-NAME,baidunetdiskhost.exe
   - PROCESS-NAME,Clash for Windows.exe
