@@ -27,6 +27,12 @@ payload:
   - DOMAIN-SUFFIX,pinterest.com #国外花瓣
   - DOMAIN-SUFFIX,pixiv.net #P站插画
   - DOMAIN-SUFFIX,behance.net # B焊死
+# > 国外AI常用网站
+  - DOMAIN-SUFFIX,civitai.com #AI-C站，全球最大的模型平台
+  - DOMAIN-SUFFIX,huggingface.co #大模型下载
+  - DOMAIN-SUFFIX,comfy.icu #在线调用现有的平台工作流
+  - DOMAIN-SUFFIX,supagruen.github.io #艺术家风格网站-训练
+  - DOMAIN-SUFFIX,openart.ai #公开工作流
 # > 国外设计论坛
   - DOMAIN-SUFFIX,maxon.net #C4D官网
   - DOMAIN-SUFFIX,sidefx.com #Houdini官网
