@@ -33,6 +33,7 @@ payload:
   - DOMAIN-SUFFIX,comfy.icu #在线调用现有的平台工作流
   - DOMAIN-SUFFIX,supagruen.github.io #艺术家风格网站-训练
   - DOMAIN-SUFFIX,openart.ai #公开工作流
+  - DOMAIN-SUFFIX,openai.com #GPT-4
 # > 国外设计论坛
   - DOMAIN-SUFFIX,maxon.net #C4D官网
   - DOMAIN-SUFFIX,sidefx.com #Houdini官网
