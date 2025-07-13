@@ -115,3 +115,4 @@ payload:
   - PROCESS-NAME,wwmapp.exe
   - PROCESS-NAME,WeMail.exe
   - PROCESS-NAME,cloudmusic.exe
+  - PROCESS-NAME,smartscreen.exe
