@@ -115,3 +115,7 @@ payload:
   - PROCESS-NAME,wwmapp.exe #企业微信
   - PROCESS-NAME,WeMail.exe #企业微信
   - PROCESS-NAME,cloudmusic.exe #网易云音乐
+# > 一些垃圾网站
+  - DOMAIN-SUFFIX,haodanku.com
+  - DOMAIN-SUFFIX,zzbtool.com
+  - DOMAIN-SUFFIX,571xz.com
