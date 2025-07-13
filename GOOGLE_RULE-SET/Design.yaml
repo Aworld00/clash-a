@@ -101,18 +101,17 @@ payload:
   - DOMAIN-SUFFIX,bangong.360.cn #苏打办公
   - DOMAIN-SUFFIX,chat.deepseek.com #Deepseek
 # > 一些软件禁用
-  - PROCESS-NAME,baidunetdiskhost.exe
-  - PROCESS-NAME,Clash for Windows.exe
-  - PROCESS-NAME,QQ.exe
-  - PROCESS-NAME,Weixin.exe
-  - PROCESS-NAME,quark.exe
-  - PROCESS-NAME,QQEX.exe
-  - PROCESS-NAME,smartscreen.exe
-  - PROCESS-NAME,BaiduNetdisk.exe
-  - PROCESS-NAME,node.exe
-  - PROCESS-NAME,TencentDocs.exe
-  - PROCESS-NAME,WXWorkWeb.exe
-  - PROCESS-NAME,wwmapp.exe
-  - PROCESS-NAME,WeMail.exe
-  - PROCESS-NAME,cloudmusic.exe
-  - PROCESS-NAME,smartscreen.exe
+  - PROCESS-NAME,baidunetdiskhost.exe #百度云盘
+  - PROCESS-NAME,Clash for Windows.exe #clash
+  - PROCESS-NAME,QQ.exe #QQ
+  - PROCESS-NAME,Weixin.exe #微信
+  - PROCESS-NAME,quark.exe #夸克
+  - PROCESS-NAME,QQEX.exe #QQ
+  - PROCESS-NAME,smartscreen.exe #Windows
+  - PROCESS-NAME,BaiduNetdisk.exe #百度云盘
+  - PROCESS-NAME,node.exe #Node
+  - PROCESS-NAME,TencentDocs.exe #腾讯文档
+  - PROCESS-NAME,WXWorkWeb.exe #企业微信
+  - PROCESS-NAME,wwmapp.exe #企业微信
+  - PROCESS-NAME,WeMail.exe #企业微信
+  - PROCESS-NAME,cloudmusic.exe #网易云音乐
