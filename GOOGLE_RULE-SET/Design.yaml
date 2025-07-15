@@ -34,6 +34,7 @@ payload:
   - DOMAIN-SUFFIX,xkonglong.com #小恐龙Word排版助手
 # > 论坛
   - DOMAIN-SUFFIX,cgfxw.com #CG白嫖网
+  - DOMAIN-SUFFIX,cgfxw.net #CG白嫖网
   - DOMAIN-SUFFIX,uusjzy.com #悠悠设计资源网
   - DOMAIN-SUFFIX,zycku.com #CG资源仓库网
   - DOMAIN-SUFFIX,c4dsky.com #书生CG资源网
@@ -41,6 +42,14 @@ payload:
   - DOMAIN-SUFFIX,modown.cn #魔顿CG资源网
   - DOMAIN-SUFFIX,lookae.com #lookae特效网
   - DOMAIN-SUFFIX,btbat.com #R站设计
+  - DOMAIN-SUFFIX,igoutu.cn #icon图标下载
+  - DOMAIN-SUFFIX,freepik.com #icon图标下载
+  - DOMAIN-SUFFIX,chenwenb.com #大元网
+  - DOMAIN-SUFFIX,zycku.com #CG资源仓库
+  - DOMAIN-SUFFIX,bhmeng.com #板绘梦
+  - DOMAIN-SUFFIX,ghxi.com #果核软件
+  - DOMAIN-SUFFIX,shejibaozang.com #设计宝藏
+  - DOMAIN-SUFFIX,softgj.com #软件管家
 # > 模型网
   - DOMAIN-SUFFIX,cgmodel.com #CG模型网
   - DOMAIN-SUFFIX,3d66.com #3D溜溜网
