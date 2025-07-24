@@ -1,5 +1,7 @@
 payload:
 # > 乱七八糟
+  - PROCESS-NAME,smartscreen.exe
+  - PROCESS-NAME,svchost.exe
 # > 影视音乐
   - DOMAIN-SUFFIX,yinfans.me #音丝范（电影下载）
   - DOMAIN-SUFFIX,eacg1.com #番剧
