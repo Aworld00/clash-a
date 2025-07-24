@@ -6,6 +6,8 @@ payload:
   - DOMAIN-SUFFIX,yinfans.me #音丝范（电影下载）
   - DOMAIN-SUFFIX,eacg1.com #番剧
   - DOMAIN-SUFFIX,girigirilove.com #番剧
+  - DOMAIN-SUFFIX,gying.net #观影GYING
+  - DOMAIN-KEYWORD,gying #观影GYING
 # > 网络教育
   - DOMAIN-SUFFIX,2qj.com #巧匠课堂
   - DOMAIN-SUFFIX,yiihuu.com #翼狐
